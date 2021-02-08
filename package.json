@@ -1,0 +1,19 @@
+{
+  "name": "bit-cenisoft-bookstore-api",
+  "version": "0.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": ["API", "Bookstore"],
+  "author": "Jeisson Francois Rosas Céspedes <jeisson.rosas@bit.institute>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.15"
+  }
+}
