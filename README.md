@@ -25,4 +25,4 @@ npm run dev
 npm run start
 ```
 
-The server will be enabled by default at localhost: 3000 
+The server will be enabled by default at http://localhost:3000 
