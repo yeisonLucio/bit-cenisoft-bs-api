@@ -1,6 +1,6 @@
 # BIT Cenisoft BookStore API
 
-API to manange BIT Cenisoft BookStore APP data.
+API to manage BIT Cenisoft BookStore APP data.
 
 ## Installing
 
